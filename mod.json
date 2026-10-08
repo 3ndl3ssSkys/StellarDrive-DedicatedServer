@@ -1,0 +1,7 @@
+{
+    "id": "DedicatedServer",
+    "name": "DedicatedServer",
+    "author": "EndlessSkys",
+    "version": "1.4.0",
+    "description": "Allows users to connect to Dedicated Servers through the in-game join menu. By adding a join IP address or similar, a user can join a server. Self hosting will be availible soon.\n\nIt is recommended that you use as few other mods as possible, errors may occur with them on.\n\nCurrent server IP: rails-scarf.tun.ply.gg:4064"
+}
