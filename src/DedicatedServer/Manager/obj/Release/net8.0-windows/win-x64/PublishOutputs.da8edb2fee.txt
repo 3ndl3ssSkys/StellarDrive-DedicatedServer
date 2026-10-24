@@ -1,0 +1,4 @@
+D:\Claude\Testing\StellarDrive Demo\_Mods\out\ServerManager\StellarDriveServerManager.exe
+D:\Claude\Testing\StellarDrive Demo\_Mods\out\ServerManager\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\out\ServerManager\StellarDriveServerManager.deps.json
+D:\Claude\Testing\StellarDrive Demo\_Mods\out\ServerManager\StellarDriveServerManager.runtimeconfig.json

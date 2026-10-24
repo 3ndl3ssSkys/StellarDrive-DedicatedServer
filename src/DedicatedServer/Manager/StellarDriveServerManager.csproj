@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>StellarDriveServerManager</AssemblyName>
+    <RootNamespace>SDServerManager</RootNamespace>
+    <Version>1.4.2</Version>
+    <FileVersion>1.4.2.0</FileVersion>
+    <AssemblyVersion>1.4.2.0</AssemblyVersion>
+    <Product>StellarDrive Server Manager</Product>
+    <AssemblyTitle>StellarDrive Server Manager</AssemblyTitle>
+    <Description>Sets up, runs and watches StellarDrive Demo dedicated servers.</Description>
+    <Company>EndlessSkys</Company>
+    <Authors>EndlessSkys</Authors>
+    <Copyright>Copyright (c) 2026 EndlessSkys</Copyright>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <Deterministic>true</Deterministic>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <SelfContained>false</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishSingleFile>false</PublishSingleFile>
+    <DebugType>none</DebugType>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <!-- The self test (and its process ledger) is only in the test build: -p:DefineConstants=SDSMTEST -->
+  <ItemGroup Condition="!$(DefineConstants.Contains('SDSMTEST'))">
+    <Compile Remove="SelfTest.cs;TestLedger.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="obj/**;bin/**" />
+  </ItemGroup>
+
+</Project>

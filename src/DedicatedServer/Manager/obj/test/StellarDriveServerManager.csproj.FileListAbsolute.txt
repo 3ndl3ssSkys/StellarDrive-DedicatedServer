@@ -1,0 +1,12 @@
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\bin\Release\net8.0-windows\win-x64\StellarDriveServerManager.exe
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\bin\Release\net8.0-windows\win-x64\StellarDriveServerManager.deps.json
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\bin\Release\net8.0-windows\win-x64\StellarDriveServerManager.runtimeconfig.json
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\bin\Release\net8.0-windows\win-x64\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\StellarDriveServerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\StellarDriveServerManager.AssemblyInfoInputs.cache
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\StellarDriveServerManager.AssemblyInfo.cs
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\StellarDriveServerManager.csproj.CoreCompileInputs.cache
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\refint\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\StellarDriveServerManager.genruntimeconfig.cache
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\test\ref\StellarDriveServerManager.dll

@@ -1,0 +1,12 @@
+C:\Users\ethan\AppData\Local\Temp\claude\D--Claude-Testing-StellarDrive-Demo--Mods\769da6be-2d8e-413d-8a9c-493282c84c0e\scratchpad\mcheck\StellarDriveServerManager.exe
+C:\Users\ethan\AppData\Local\Temp\claude\D--Claude-Testing-StellarDrive-Demo--Mods\769da6be-2d8e-413d-8a9c-493282c84c0e\scratchpad\mcheck\StellarDriveServerManager.deps.json
+C:\Users\ethan\AppData\Local\Temp\claude\D--Claude-Testing-StellarDrive-Demo--Mods\769da6be-2d8e-413d-8a9c-493282c84c0e\scratchpad\mcheck\StellarDriveServerManager.runtimeconfig.json
+C:\Users\ethan\AppData\Local\Temp\claude\D--Claude-Testing-StellarDrive-Demo--Mods\769da6be-2d8e-413d-8a9c-493282c84c0e\scratchpad\mcheck\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\StellarDriveServerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\StellarDriveServerManager.AssemblyInfoInputs.cache
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\StellarDriveServerManager.AssemblyInfo.cs
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\StellarDriveServerManager.csproj.CoreCompileInputs.cache
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\refint\StellarDriveServerManager.dll
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\StellarDriveServerManager.genruntimeconfig.cache
+D:\Claude\Testing\StellarDrive Demo\_Mods\src\DedicatedServer\Manager\obj\check\ref\StellarDriveServerManager.dll
